@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "7cdcd76d83a93d4fe53897b8fe9a84693c87e607"
+    "signature": "aa4f05248b68233e8c186647b620b4883fbefe9e"
   },
   "compilationOptions": {},
   "targets": {
@@ -15,6 +15,7 @@
           "Moq": "4.9.0",
           "_Builder": "1.0.0",
           "_Util": "1.0.0",
+          "coverlet.msbuild": "2.1.1",
           "xunit": "2.3.1",
           "xunit.runner.visualstudio": "2.3.1"
         },
@@ -49,6 +50,7 @@
           }
         }
       },
+      "coverlet.msbuild/2.1.1": {},
       "ExpectedObjects/2.3.4": {
         "dependencies": {
           "System.Reflection.TypeExtensions": "4.3.0"
@@ -1164,6 +1166,13 @@
       "sha512": "sha512-8Y/eTr6GTElAGV7eAmJuhfLhGdFpNvaNrQ9UQYDScziLmX+/BLGM+9eQr0IcdNDcPN0ADmbtwT6MgecGKy4obw==",
       "path": "castle.core/4.3.1",
       "hashPath": "castle.core.4.3.1.nupkg.sha512"
+    },
+    "coverlet.msbuild/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FgMET+euEaaTHd3Tjy2h3ikv0J6U/Cz5Bhr5yV9BzvlnOr5CD8+/zb6x71T0kKNcHCgo3cdAHXAHPKQKyTrrjA==",
+      "path": "coverlet.msbuild/2.1.1",
+      "hashPath": "coverlet.msbuild.2.1.1.nupkg.sha512"
     },
     "ExpectedObjects/2.3.4": {
       "type": "package",

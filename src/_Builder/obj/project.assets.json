@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Builder\\_Builder.csproj",
+      "projectUniqueName": "c:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Builder\\_Builder.csproj",
       "projectName": "_Builder",
-      "projectPath": "C:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Builder\\_Builder.csproj",
+      "projectPath": "c:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Builder\\_Builder.csproj",
       "packagesPath": "C:\\Users\\ycamargo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Builder\\obj\\",
+      "outputPath": "c:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\Model\\Model.csproj"
+            "c:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\Model\\Model.csproj": {
+              "projectPath": "c:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\Model\\Model.csproj"
             }
           }
         }

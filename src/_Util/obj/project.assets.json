@@ -5714,11 +5714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Util\\_Util.csproj",
+      "projectUniqueName": "c:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Util\\_Util.csproj",
       "projectName": "_Util",
-      "projectPath": "C:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Util\\_Util.csproj",
+      "projectPath": "c:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Util\\_Util.csproj",
       "packagesPath": "C:\\Users\\ycamargo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Util\\obj\\",
+      "outputPath": "c:\\Users\\ycamargo\\Desktop\\CursoOnline2\\src\\_Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5753,6 +5753,7 @@
             "version": "[15.7.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
